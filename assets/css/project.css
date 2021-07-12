@@ -147,6 +147,10 @@ a:hover {
     float: left;
     margin-bottom: 2rem;
 }
+p {
+    margin-top: 0;
+    margin-bottom: 0;
+}
 
 @media(min-width: 60rem) {
     .row {

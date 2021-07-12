@@ -5,29 +5,19 @@ AOS.init();
 const moocs = document.querySelector(".moocs");
 const moocscards = [
   {
-    title: "Data Science",
-    cardImage: "assets/images/education-page/coursera1.png",
-    moocLink: "https://www.coursera.org/browse/data-science",
-  },
-  {
-    title: "Machine Learning",
-    cardImage: "assets/images/education-page/coursera1.png",
-    moocLink: "https://www.coursera.org/learn/machine-learning",
-  },
-  {
     title: "Introduction to HTML 5",
-    cardImage: "assets/images/education-page/udacity_logo.png",
-    moocLink: "https://www.udacity.com/course/intro-to-html-and-css--ud001",
+    cardImage: "assets/images/education-page/udemy.png",
+    moocLink: "https://www.udemy.com/course/learn-html5-programming-from-scratch/",
   },
   {
     title: "Introduction to CSS 3",
-    cardImage: "assets/images/education-page/udacity_logo.png",
-    moocLink: "https://www.udacity.com/course/intro-to-html-and-css--ud001",
+    cardImage: "assets/images/education-page/udemy.png",
+    moocLink: "https://www.udemy.com/course/learn-css-course/",
   },
   {
     title: "Javascript",
-    cardImage: "assets/images/education-page/udacity_logo.png",
-    moocLink: "https://www.udacity.com/course/intro-to-javascript--ud803",
+    cardImage: "assets/images/education-page/udemy.png",
+    moocLink: "https://www.udemy.com/course/javascript-essentials/",
   },
   {
     title: "Bootstrap 4",
@@ -36,18 +26,18 @@ const moocscards = [
   },
   {
     title: "Intro to React",
-    cardImage: "assets/images/education-page/EdX.png",
-    moocLink: "https://www.edx.org/learn/reactjs",
+    cardImage: "assets/images/education-page/Linkedin.png",
+    moocLink: "",
   },
   {
     title: "Intro to React Native",
-    cardImage: "assets/images/education-page/coursera1.png",
-    moocLink: "https://www.coursera.org/lecture/react-native/introduction-to-react-native-Eax0D",
+    cardImage: "assets/images/education-page/Linkedin.png",
+    moocLink: "",
   },
   {
     title: "NodeJS, Express and MongoDB",
-    cardImage: "assets/images/education-page/coursera1.png",
-    moocLink: "https://www.coursera.org/learn/server-side-nodejs",
+    cardImage: "assets/images/education-page/udemy.png",
+    moocLink: "https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/",
   },
   {
     title: "Data Structures & Algorithms",
