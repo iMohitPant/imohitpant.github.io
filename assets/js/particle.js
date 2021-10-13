@@ -51,13 +51,13 @@ particlesJS('particles-js', {
 		line_linked: {
 			enable: true,
 			distance: 150,
-			color: '#808080',
+			color: '#FFE90B',
 			opacity: 0.4,
 			width: 1
 		},
 		move: {
 			enable: true,
-			speed: 5,
+			speed: 10,
 			direction: 'none',
 			random: false,
 			straight: false,
@@ -84,8 +84,8 @@ particlesJS('particles-js', {
 		},
 		modes: {
 			'repulse' : {
-				distance: 70,
-				duration: 0.4
+				distance: 200,
+				duration: 0.1
 			},
 			'push' : {
 				particles_nb: 4
